@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @link2zain
+# 👋 Hi, I’m @link2zain
 - 👀 I’m interested in colaborating with other developers to create something awesome.
 - 🌱 I’m currently a software developer working in multiple software firms with the skills of web developer and aws DevOpps developer 
 - 💞️ I’m looking to collaborate on coding competitions and Hackathons
