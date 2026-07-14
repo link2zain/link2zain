@@ -62,18 +62,6 @@
 
 **Education:** BS Computer Science — Virtual University of Pakistan (2020–2024)
 
-<br/>
-
-### 📌 Repositories
-
-| Project | Description | Stack |
-|---|---|---|
-| [webmagic_core](https://github.com/link2zain/webmagic_core) | Core module powering the WebMagic platform | PHP |
-| [webmagic_dashboard](https://github.com/link2zain/webmagic_dashboard) | Dashboard interface for WebMagic | CSS |
-| [all_traveler_hotels](https://github.com/link2zain/all_traveler_hotels) | Hotel booking/listing web application | PHP |
-| [EventMe-qualification](https://github.com/link2zain/EventMe-qualification) | Event management qualification module | JavaScript |
-
-*(These are earlier PHP/JS projects — consider pinning something that reflects your current Java/Spring Boot and data-pipeline work if you have a public repo for it.)*
 
 <br/>
 
